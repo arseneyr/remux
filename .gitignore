@@ -22,3 +22,6 @@ transcode_sessions
 jellyfin-web/
 jellyfin-ffmpeg/
 .aider*
+
+# nix build symlink
+/result*
